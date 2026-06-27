@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/1470-shuffle-the-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
