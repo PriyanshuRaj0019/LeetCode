@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Linked List
+|  |
+| ------- |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/PriyanshuRaj0019/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
