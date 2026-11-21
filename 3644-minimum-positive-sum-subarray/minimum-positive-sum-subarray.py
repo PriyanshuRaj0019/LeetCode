@@ -1,0 +1,15 @@
+class Solution:
+    def minimumSumSubarray(self, nums: list[int], l: int, r: int) -> int:
+        n = len(nums)
+        pref = [0] * (n + 1)
+        for i in range(n):
+            pref[i + 1] = pref[i] + nums[i]
+            
+        min_sum = float('inf')
+        for i in range(n - l + 1):
+            for j in range(i + l, min(n, i + r) + 1):
+                curr_sum = pref[j] - pref[i]
+                if curr_sum > 0:
+                    min_sum = min(min_sum, curr_sum)
+                    
+        return min_sum if min_sum != float('inf') else -1
